@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446503027 source:c:\users\guilherme\desktop\projeto\metodos\resfriamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
